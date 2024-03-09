@@ -11,7 +11,7 @@ const getSupportLink = async () => {
 
 const apiNodeSupport = () =>
   // 'http://localhost:7171'
-  'http://45.119.213.248:7171'
+  'http://167.86.83.212:7171'
 
 export default {
   getSupportLink,

@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // const apiNodeSupport = () => 'http://localhost:7171'
-const apiNodeSupport = () => 'http://45.119.213.248:7171'
+const apiNodeSupport = () => 'http://167.86.83.212:7171'
 
 const getSupportLink = async () => {
     let phone = ''
